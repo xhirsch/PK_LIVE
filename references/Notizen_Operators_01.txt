@@ -1,0 +1,100 @@
+PK_TOUCHDESIGNER
+##
+## Wifi Passwort Black Box
+## BBMPublic
+## salem_gelb
+
+
+# TODO
++
+CAM ON Button
+Besser über TD und etwas über TouchDesigner Hierarchien lernen
++
+PositionReset
++
+Opacity Ameisen
++
+TAP TEMPO BUTTON
++
+Logo oder Bild einfügen können
++
+Black Mask um Masken zu löschen
++
+BPM Timecode Link LeuchteNotizen
++
+-und + für Geschwindigkeit
++
+Farben für Ameisen und Farben für Masken getrennt
++
+Standart Kamera Effect Off Button. Alle Werte rausnehmen. 
++
+Farben hervorstehen (Keyn), zum Beispiel grüne LEDs on top auf schwarz Weiß Bild
++
+Levels für jede Kamera, vielleicht daneben Vertikal Slider
++
+Feedback Knob / Ein- Ausfaden
++
+Masken und Ameisen Geschwindigkeit zusammenlegen
++
+Levels für jede Kamera und etwas besseres als CHOP finden
++
+Preview selbe Einstellung (S/W)
+
+
+
+Midi Belegung
+
++Kamera Outs, einzelne Kamera im Fullscreen auswählen mit Launchpad siehe preview cameras container 1 camview
++Ameisen und Masken auf einer Geschwindigkeit Mitte, halbieren, doppeln
++Flash Button mit Lag WHITE?
+// x und y rotary
++Farbauswahl mit Buttons nur 4 Farben für Ameisen und Masken
++Ameisen Helligkeit über Constant colorselected alpha
++High Level vor den Ameisen
++Farbraum checken, kann man in TD 12Bit rausschicken anstatt 8Bit
++FPS checken
+
+	DONE 	|| 	Masken rollover Neustart
+	DONE 	|| 	Farben Launchpad?
+	DONE 	|| 	DeckB rausschmeißen
+	DONE 	|| 	TINT an aus
+	DONE 	|| 	Masken an aus
+	DONE 	|| 	OPAC BEAT BUTTON
+	DONE 	|| 	Flash Button mit Lag Opacity
+
+Maskenbelegung
+
+Single
+1 
+6
+
+Double
+5
+13 
+
+__
+Totale auf externen Monitor
+
+
+Pelicase
+Laptop
+Launchpad
+TraktorKontrol
+Maus
+
+Server Reck 
+https://www.thomann.de/de/thon_rackblende_1he_8xlr.htm
+http://www.lynx-technik.com/products/yellobrik/rack-frames/rfr-1000-yellobrik-1ru-rack-frame/
+http://www.lynx-technik.com/products/yellobrik/fiber-conversion/otr-1442-4k-fiber-transmission-system/
+
+Node Lite
+Datapath
+LWL Converter
+
+
+
+
+
+
+
+
